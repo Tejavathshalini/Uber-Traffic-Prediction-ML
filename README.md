@@ -170,8 +170,7 @@ Possible improvements for this project include:
 Data Science & Machine Learning Enthusiast  
 Passionate about solving real-world problems using data.
 
-LinkedIn: (Add your LinkedIn link here)
-
+LinkedIn: www.linkedin.com/in/tejavathshalini
 ---
 
 # ⭐ Project Outcome
